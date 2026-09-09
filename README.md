@@ -1,4 +1,4 @@
-import 
+import requests
 from decimal import Decimal
 
 RPC_URL = "https://eth.llamarpc.com"
