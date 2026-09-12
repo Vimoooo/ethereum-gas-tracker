@@ -62,7 +62,7 @@ def main():
             gas_price
         )
 
-        print(
+        (
             f"{name:<18} "
             f"{cost:.6f} ETH"
         )
